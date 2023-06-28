@@ -19,3 +19,9 @@ Refrain from posting IP addresses or personally identifiable information in fork
 - Upload images with an image selector.
 - Select from history of uploads.
 
+## What's next?
+- GIF support and/or short videos.
+
+## Common issues
+
+- Remember to port forward the chosen Flask port otherwise it's inaccessible outside your local network.
